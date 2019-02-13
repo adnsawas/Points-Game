@@ -1,6 +1,6 @@
 # Points Game developed in Flutter
 
-My first Flutter project. I created this game to learn and get familiar with some of Flutter basics and pronciples. 
+My first Flutter project. I created this game to learn and get familiar with some of Flutter basics and principles. 
 
 ## Getting Started
 
